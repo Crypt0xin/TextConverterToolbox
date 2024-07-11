@@ -27,7 +27,7 @@ A Python-based GUI application for transforming text into various formats using 
 2. Navigate to the project directory:
 
     ```bash
-    cd text-converter-gui
+    cd TextConverterToolbox
     ```
 
 3. Install the required dependencies:
@@ -41,4 +41,4 @@ A Python-based GUI application for transforming text into various formats using 
 Run the script to launch the GUI:
 
 ```bash
-python text_converter.py
+python TextConverterToolbox.py
