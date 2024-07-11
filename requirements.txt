@@ -1,0 +1,8 @@
+tkinter
+html2markdown==0.1.7
+Markdown==3.4.3
+Pygments==2.13.0
+json
+csv
+io
+re
